@@ -1,4 +1,11 @@
 # Getting Started with Create React App
+Shorty - URL Shortener Shorty is a URL shortening service built using Nodejs and Reactjs Framework. This service includes user authentication as well as shortening service. The app also keeps tracks of URLs that you have already shortened and it can show you how many times that site has been visited using that link. 
+
+HOW TO RUN: npm run both
+
+Built using nodejs 16.15  and Reactjs 18.2
+
+TECHSTACK: Nodejs, Reactjs, Javascript,
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
