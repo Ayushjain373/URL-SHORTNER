@@ -1,77 +1,45 @@
-# Getting Started with Create React App
-Shorty - URL Shortener Shorty is a URL shortening service built using Nodejs and Reactjs Framework. This service includes user authentication as well as shortening service. The app also keeps tracks of URLs that you have already shortened and it can show you how many times that site has been visited using that link. 
+**URL-SHORTNER-WEB-APP**
 
-HOW TO RUN: npm run both
+ 
+                                                                                                                                           
+**Inspiration🌠**
 
-Built using nodejs 16.15  and Reactjs 18.2
+Today, Internet is full of Articles ,Blogs. Everyone Content Creator add other links in their blog which is shorten Link and this make me curious about how short link create, it inspires me a lot to make something similar to, day today's apps like Bit.ly.
+                               
+**What it does🚀**
 
-TECHSTACK: Nodejs, Reactjs, Javascript,
+URL SHORTENING APP(commonly abbreviated to bit.ly)[is a Url-shortening social web app platform]. This app allows users to shorten the Url and maintain the count of the visit to the link. Link can be shared with friends or other people in any social app. It is a link management platform that lets you harness the power of your links by shortening, sharing, managing, and analyzing links to your content. It is a full-stack web application, we made using the MERN stack. It first opens with a login screen, a user needs to log in if an account exists or needs to create an account and if new to the platform, after successful signup it redirects the user to the login screen and now the user needs to login, that's how the auth works. Now after the login home screen appears with a textarea where the user is able to write the long Url and Url shortener buttons. After the user clicks on a button, the Table will show which contains longurl, shorturl, and No of time visit. 
+                                                                                                                                
+**How We Built it🔨**
+                                                                                                                       
+                                                                                                                  
+I started by creating a prototype in Figma. The mobile application was built using MERN stack and VS-Studio as a tool. We made use of JWT(javascript web token) for authentication and for saving user data. I used Hashing  for secured the Paasword. I used Tailwind Library to style the project. And Finally deployed on Heroku.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+**Challenges We ran into🟠**
 
-In the project directory, you can run:
+I was very new to JWT authentication and Hashing  the Password, I find it difficult to integrate it with the web app, then at deployment time(It was my first deployment with Heroku) too much difficulty arises because of secure keys, which was very new to me and I was not aware of, how to hide them before production.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**What I learned📚**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+I got more experience in MERN stack and JWT by building this application. Got to learn about different authentication systems and how everything interacts in the web application during auth. Learned How to secure the Web apps by attacking and secure the Database.
+                                                                                                                                                                                                                  
+**Project demo Gallery📷**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+ 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Try it out here**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You Can visit the Website by clicking this link: 
+Try it Here :  https://url-shortner-task.netlify.app/login
 
-### `npm run eject`
+**Creator**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This Project Built by
+Ayush jain
+Linkedin: https://www.linkedin.com/in/ay-jain0/ 
