@@ -34,7 +34,7 @@ I was very new to JWT authentication and Hashing  the Password, I find it diffic
 **What I learned📚**
 
 
-I got more experience in MERN stack and JWT by building this application. Got to learn about different authentication systems and how everything interacts in the web application during auth. Learned How to secure the Web apps by attacking and secure the Database.
+I got more experience in MERN stack and JWT by building this application. Got to learn about different authentication systems and how everything interacts in the web application during auth. Learned How to secure the Web apps by attacker and Learned Hashing techniques which helps to convert the password into long string and we can easily secure user credentials in database with the help of hashing.
                                                                                                                                                                                                                   
 **Project demo Gallery📷**
 
