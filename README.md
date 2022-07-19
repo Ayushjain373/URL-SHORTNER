@@ -50,7 +50,7 @@ I got more experience in MERN stack and JWT by building this application. Got to
 **Try it out here**
 
 You Can visit the Website by clicking this link: 
-Try it Here :  https://url-shortner-task.netlify.app/login
+Try it Here :  https://cuttly.netlify.app/login
 
 **Creator**
 
